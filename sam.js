@@ -7,3 +7,10 @@ function array(arr){
 }
 array(c);
 
+// just adding two numbers
+
+a = 2;
+b = 3;
+c = a + b;
+console.log(c)
+
