@@ -1,0 +1,18 @@
+let age=25;
+const name="ravina";
+age=age+1;
+console.log("Name:",name);
+console.log("Age:",age);
+let a=10;
+let b=5;
+console.log(a+b);
+let s="ravina";
+console.log(s.length);
+let R="pooja";
+let e=R[R.length-1];
+console.log(e);
+let c=10;
+let d=6;
+console.log(c+d);
+let x='8.6';
+console.log(parseFloat(x));
